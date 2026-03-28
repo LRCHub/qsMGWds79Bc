@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "base_track": "シネマ",
+  "base_artist": "Ayase",
+  "createdAt": "2026-03-28T02:44:24.384928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ニュー・シネマ・パラダイス(『ニュー・シネマ・パラダイス』より)",
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/01_ニュー・シネマ・パラダイス(『ニュー・シネマ・パラダイス』より)_The_City_of_Prague_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピューパ・シネマ",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/02_ピューパ・シネマ_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/03_シネマ_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/04_シネマ_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シネマ / Ayase (self cover)",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/05_シネマ___Ayase_(self_cover)_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シネマ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/06_シネマ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シネマ",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/07_シネマ_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オールド・シネマ・ユートピア",
+      "artist": "yukina，みぃ",
+      "has_synced": true,
+      "path": "select/08_オールド・シネマ・ユートピア_yukina,みぃ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シネマ / 歌ってみた【松本吉弘＆緑仙】",
+      "artist": "松本吉弘-まつもとぐみ",
+      "has_synced": false,
+      "path": "select/09_シネマ___歌ってみた【松本吉弘&緑仙】_松本吉弘-まつもとぐみ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シネマ\u001fCinema",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/10_シネマ_Cinema_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "たいせつなひと (シネマ・ヴァージョン)",
+      "artist": "さだまさし",
+      "has_synced": false,
+      "path": "select/11_たいせつなひと_(シネマ・ヴァージョン)_さだまさし.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シネマ (instrumental)",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/12_シネマ_(instrumental)_Ayase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_シネマ_Ayase.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_01_シネマ_Ayase.lrc",
+      "repo_name": "VbYt5fs7nmA"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_02_シネマ_Ayase.lrc",
+      "repo_name": "h0SC8YN0lOI"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_03_シネマ_Ayase.lrc",
+      "repo_name": "8dywenCWPI0"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_04_シネマ_Ayase.lrc",
+      "repo_name": "-kOstuCnCVI"
+    }
+  ]
+}
